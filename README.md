@@ -49,17 +49,17 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/khoigiaphamm/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="khoigiapham-facebook" />
-  </a>
   <a href="https://www.linkedin.com/in/khoi-pham2709/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="khoigiapham-linkedin" />
   </a>
+    <a href="mailto:pgkhoi279@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  </a>   
+  <a href="https://www.facebook.com/khoigiaphamm/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="khoigiapham-facebook" />
+  </a>
   <a href="https://www.instagram.com/khoi.giapham/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:pgkhoi279@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
 
