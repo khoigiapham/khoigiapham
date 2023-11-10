@@ -3,7 +3,7 @@
   <img src="khoigiapham.svg" width="1200" alt="khoigiapham" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🔭 Technologies and Tools 🔭</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=276DC3" alt="R logo" title="R" height="25" /></span>
@@ -30,7 +30,7 @@
 &nbsp;
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">🚀 GitHub Stats 🚀</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -45,7 +45,7 @@
 <br>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">👨‍🚀 Where to find me 👨‍🚀</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -66,9 +66,9 @@
 <br>
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center"> 💫  Motto  💫 </h2>
 <br>
 <a href="#" target="_blank">
-  <img src="khoigiapham-quotes.svg" width="846" height="150" alt="khoigiapham" />
+  <img src="khoigiapham-quotes.svg" width="846" height="150" alt="khoigiapham-quotes" />
 </a>
 
