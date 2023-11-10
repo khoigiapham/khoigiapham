@@ -1,6 +1,6 @@
 <!-- khoigiapham -->
 <a href="#" target="_blank">
-  <img src="svg/khoigiapham.svg" width="1200" alt="khoigiapham" />
+  <img src="khoigiapham.svg" width="1200" alt="khoigiapham" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
