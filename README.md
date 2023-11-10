@@ -66,7 +66,7 @@
 <br>
 
 <br>
-<h2 align="center"> 💫  Motto  💫 </h2>
+<h2 align="center">🌟 Motto 🌟</h2>
 <br>
 <a href="#" target="_blank">
   <img src="khoigiapham-quotes.svg" width="846" height="150" alt="khoigiapham-quotes" />
